@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    }
+    
+    .container {
+    padding: 10px ;
+    }
+    
+    .marker {
+    width: 220px;
+    height: 40px;
+    box-shadow:0 0 20px 5px #bdcacc;
+
+    margin: 10px auto;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    }
+
+    .one{
+        background: linear-gradient(#944623,#ed3c6a,#af2a30);
+    }
+    .two{
+        background:linear-gradient(#597c13,#6deb3c,#337e4e);
+    }
+
+    .three{
+        background:linear-gradient(#174d74,#386ce8,#3241bc)
+    }
+   
+    .shadow{
+        margin-left: 20px;
+        width: 68%;
+        height: 40px;
+        background-color: white;
+        border-left: 10px double rgb(0, 0, 0);
+        opacity: 0.6;
+    }
