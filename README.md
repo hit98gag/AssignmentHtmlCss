@@ -10,4 +10,3 @@ Assignment 305-01 https://hit98gag.github.io/AssignmentHtmlCss/A30501/index.html
 
 Assignment 305-02 https://hit98gag.github.io/AssignmentHtmlCss/Calculator/index.html
 
-Assignment 306-01 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30601/index.html
