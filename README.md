@@ -12,3 +12,5 @@ Assignment 305-02 https://hit98gag.github.io/AssignmentHtmlCss/Calculator/index.
 
 Assignment 304-01 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30401/index.html
 
+Assignment 304-02 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30402/index.html
+
