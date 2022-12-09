@@ -25,3 +25,5 @@ Assignment 305-04 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30504/i
 Assignment 306-03 https://hit98gag.github.io/AssignmentHtmlCss/Assignment60303/index.html
 
 Assignment 305-06 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30506/index.html
+
+Assignment 305-05 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30505/index.html
