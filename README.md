@@ -32,3 +32,6 @@ Assignment 305-03 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30503/i
 
 
 Assignment 307-01 https://hit98gag.github.io/AssignmentHtmlCss/Assignment30701/index.html
+
+
+Assignment 306-02 https://hit98gag.github.io/AssignmentHtmlCss/Assignment60302/index.html
